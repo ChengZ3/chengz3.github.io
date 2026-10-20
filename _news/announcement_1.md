@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-08-26
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Started my PhD in [Computer and Information Science](https://www.cis.upenn.edu/) at the University of Pennsylvania.
